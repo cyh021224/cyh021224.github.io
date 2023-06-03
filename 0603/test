@@ -1,0 +1,18 @@
+<html>
+    <head>
+        <title>嘉義雞肉飯路跑</title>
+        <meta charset="UTF-8">
+        <link rel="stylesheet" href="css">
+    </head>
+    <body>
+        <h1>嘉義雞肉飯路跑</h1>
+        <nav>
+            <ul>
+                <li><a href="#">首頁</a></li>
+                <li><a href="#">地圖</a></li>
+                <li><a href="#">比較</a></li>
+                <li><a href="#">排名</a></li>
+            </ul>
+        </nav>
+    </body>
+</html>
