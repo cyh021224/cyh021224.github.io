@@ -1,0 +1,37 @@
+body{
+
+    background-color: palegoldenrod;
+    margin: 0px;
+}
+
+.box{
+    width: 1200px;
+    margin: 0 auto;/*區塊置中*/
+  }
+
+  p{
+    text-align:left;
+  }
+
+
+
+.carousel{
+
+  width: 70%;
+  height: auto;
+  margin: auto;
+}
+
+.map{
+
+  margin-top:1em;
+  float: center;
+  width:fit-content;
+}
+
+.score{
+color: sienna;
+font-weight: bolder;
+font-size: larger;
+}
+
