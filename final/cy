@@ -1,0 +1,138 @@
+<!doctype html>
+
+<html lang="zh-Hant">
+    <head>
+        <title>嘉義雞肉飯路跑</title>
+        <meta charset="UTF-8">
+
+        <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-9ndCyUaIbzAi2FUVXJi0CjmCapSmO7SnpJef0486qhLnuZ2cdeRhO02iuK6FUUVM" crossorigin="anonymous">
+        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js" integrity="sha384-geWF76RCwLtnZ8qwWowPQNguL3RmwHVBC9FhGdlKrxdiJJigb/j/68SIy3Te4Bkz" crossorigin="anonymous"></script>
+ 
+        <link rel="stylesheet" href="navh.css">
+
+    </head>
+    <body>
+        
+        <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+            <div class="container-fluid">
+              <a class="navbar-brand" href="#">嘉義雞肉飯路跑</a>
+              <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavDarkDropdown" aria-controls="navbarNavDarkDropdown" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+              </button>
+              <div class="collapse navbar-collapse" id="navbarNavDarkDropdown">
+                <ul class="navbar-nav">
+
+                    <li calss="nav-item">
+                        <a class="nav-link" href="嘉義雞肉飯地圖.html">首頁</a>
+                    </li>
+
+                  <li class="nav-item dropdown">
+                    <a class="nav-link dropdown-toggle" href="#" id="navbarDarkDropdownMenuLink" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                      地圖
+                    </a>
+                    <ul class="dropdown-menu dropdown-menu-dark" aria-labelledby="navbarDarkDropdownMenuLink">
+                      <li><a class="dropdown-item" href="嘉義雞肉飯地圖.東區.html">東區</a></li>
+                      <li><a class="dropdown-item" href="嘉義雞肉飯地圖.西區.html">西區</a></li>
+                    </ul>
+                  </li>
+
+                  <li class="nav-item dropdown">
+                    <a class="nav-link dropdown-toggle" href="嘉義雞肉飯地圖.比較.html" id="navbarDarkDropdownMenuLink" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                      比較
+                    </a>
+                    <ul class="dropdown-menu dropdown-menu-dark" aria-labelledby="navbarDarkDropdownMenuLink">
+                      <li><a class="dropdown-item" href="嘉義雞肉飯地圖.鹹度.html">鹹度</a></li>
+                      <li><a class="dropdown-item" href="嘉義雞肉飯地圖.油度.html">油度</a></li>
+                      <li><a class="dropdown-item" href="嘉義雞肉飯地圖.雞肉.html">雞肉</a></li>
+                      <li><a class="dropdown-item" href="值嘉義雞肉飯地圖.CP值.html">CP值</a></li>
+                    </ul>
+                  </li>
+
+                </li>
+                <li calss="nav-item">
+                    <a class="nav-link" href="嘉義雞肉飯地圖.排名.html">排名</a>
+
+
+                </ul>
+              </div>
+            </div>
+          </nav>
+
+
+          <div id="carouselExampleIndicators" class="carousel slide">
+            <div class="carousel-indicators">
+
+              <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
+              <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="1" aria-label="Slide 2"></button>
+              <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="2" aria-label="Slide 3"></button>
+              <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="3" aria-label="Slide 4"></button>
+              <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="4" aria-label="Slide 5"></button>
+              <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="5" aria-label="Slide 6"></button>
+              <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="6" aria-label="Slide 7"></button>
+              <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="7" aria-label="Slide 8"></button>
+              <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="8" aria-label="Slide 9"></button>
+            </div>
+            <div class="carousel-inner" >
+              <div class="carousel-item active">
+                <img src="雞肉飯路跑圖片們/ash.jpg" class="d-block w-100" alt="阿宏師火雞肉飯" title="阿宏師火雞肉飯" aria-label="阿宏師火雞肉飯">
+              </div>
+              <div class="carousel-item">
+                <img src="雞肉飯路跑圖片們/dm.jpg" class="d-block w-100" alt="東門火雞肉飯" title="東門火雞肉飯" aria-label="東門火雞肉飯">
+              </div>
+              <div class="carousel-item">
+                <img src="雞肉飯路跑圖片們/cd.jpg" class="d-block w-100" alt="檜町火雞肉飯" title="檜町火雞肉飯" aria-label="檜町火雞肉飯">
+              </div>
+              <div class="carousel-item">
+                <img src="雞肉飯路跑圖片們/jd.jpg" class="d-block w-100" alt="簡單火雞肉飯" title="簡單火雞肉飯" aria-label="簡單火雞肉飯">
+              </div>
+              <div class="carousel-item">
+                <img src="雞肉飯路跑圖片們/yf.jpg" class="d-block w-100" alt="永芳火雞肉飯" title="永芳火雞肉飯" aria-label="永芳火雞肉飯">
+              </div>
+              <div class="carousel-item">
+                <img src="雞肉飯路跑圖片們/mj.jpg" class="d-block w-100" alt="民主火雞肉飯" title="民主火雞肉飯" aria-label="民主火雞肉飯">
+              </div>
+              <div class="carousel-item">
+                <img src="雞肉飯路跑圖片們/gj.webp" class="d-block w-100" alt="郭家火雞肉飯" title="郭家火雞肉飯" aria-label="郭家火雞肉飯">
+              </div>
+              <div class="carousel-item">
+                <img src="雞肉飯路跑圖片們/llj.jpg" class="d-block w-100" alt="劉里長火雞肉飯" title="劉里長火雞肉飯" aria-label="劉里長火雞肉飯">
+              </div>
+              <div class="carousel-item">
+                <img src="雞肉飯路跑圖片們/as.jpg" class="d-block w-100" alt="阿溪火雞肉飯" title="阿溪火雞肉飯" aria-label="阿溪火雞肉飯">
+              </div>
+            </div>
+            <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide="prev">
+              <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+              <span class="visually-hidden">Previous</span>
+            </button>
+            <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide="next">
+              <span class="carousel-control-next-icon" aria-hidden="true"></span>
+              <span class="visually-hidden">Next</span>
+            </button>
+          </div>
+
+
+          <div class="box">
+
+            <br>
+           
+           
+
+            <p title="首頁動機" style="color: darkolivegreen; font-weight: bolder; font-size: 30px;">動機</p>
+            <p title="唯一一段">身為一個嘉義人，最常被問到的就是「你最推薦哪家雞肉飯啊？」，但我也並未嚐盡所有店家，
+            甚至也沒有如刻板印象中的嘉義人一般如此熱愛雞肉飯，所以每次被問到時都只能隨意推個幾間有名的。
+            但上了大學後，我的嘉義魂突然大爆發，可能是因為時間較以往多了許多又有自己的交通工具，於是我立下了要吃遍全嘉義所有雞肉飯的宏願，
+            立志要在這茫茫的雞肉飯海中找到我的夢中情飯，並建立一份以我的喜好為標準分類、排名的列表，雖然進度緩慢，但我會努力在畢業前達成的，敬請期待吧！
+
+            </p>
+
+            <br>
+
+           
+        </div>
+
+    </body>
+
+</html>
+
+</html>
